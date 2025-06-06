@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Ignacio Veliz
 
-Soy **Desarrollador Full Stack** con enfoque principal en el desarrollo **backend con Laravel**, APIs REST y despliegues eficientes en contenedores Docker. Actualmente trabajo en la creación de soluciones personalizadas para la gestión de proyectos, campañas de marketing automatizadas y sistemas internos de alto rendimiento.
+Soy **Desarrollador Full Stack**, enfocado principalmente en el desarrollo **backend con Laravel**, creación de APIs REST y uso de contenedores Docker. Actualmente desarrollo soluciones a medida para gestionar proyectos, automatizar campañas de marketing y construir sistemas internos que realmente ayuden en el día a día.
 
 ---
 
