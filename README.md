@@ -38,5 +38,3 @@ Actualmente estoy profundizando en:
 - 📍 Santiago, Chile  
 
 ---
-
-> “El código limpio siempre cuenta una historia”. – Robert C. Martin
