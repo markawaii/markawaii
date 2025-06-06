@@ -1,17 +1,17 @@
 ## 👋 ¡Hola! Soy Ignacio Veliz
 
-Soy **Desarrollador Full Stack** con enfoque principal en el desarrollo **backend con Laravel**, APIs REST, sistemas multitenancy, y despliegues eficientes en contenedores Docker. Actualmente trabajo en la creación de soluciones personalizadas para la gestión de proyectos, campañas de marketing automatizadas y sistemas internos de alto rendimiento.  
+Soy **Desarrollador Full Stack** con enfoque principal en el desarrollo **backend con Laravel**, APIs REST y despliegues eficientes en contenedores Docker. Actualmente trabajo en la creación de soluciones personalizadas para la gestión de proyectos, campañas de marketing automatizadas y sistemas internos de alto rendimiento.
 
 ---
 
 ### 🚀 Tecnologías que uso a diario
 
 - ⚙️ **Backend:** PHP (Laravel), MySQL/MariaDB, RESTful APIs  
-- 🎨 **Frontend:** Blade, Livewire, Alpine.js, CKEditor  
-- 🐳 **DevOps:** Docker, Docker Compose, Git, GitHub Actions  
+- 🎨 **Frontend:** Blade, Alpine.js, CKEditor  
+- 🐳 **DevOps:** Docker, Docker Compose, Git, GitHub Actions, Bitbucket, Bitbucket Pipelines
 - 🔐 **Autenticación:** JWT, SSO (Google), Seguridad API  
 - 🧪 **Testing y QA:** PHPUnit, Cucumber (Java + Eclipse)  
-- 🔄 **Integraciones:** LinkedIn API, Google Ads API, IMAP/SMTP  
+- 🔄 **Integraciones:** LinkedIn API, Google Ads API, Google Chat API, IMAP/SMTP  
 - 📊 **Data y Métricas:** dashboards personalizados, reporting dinámico  
 
 ---
@@ -19,7 +19,6 @@ Soy **Desarrollador Full Stack** con enfoque principal en el desarrollo **backen
 ### 🧠 Siempre aprendiendo
 
 Actualmente estoy profundizando en:
-- Clean architecture y diseño desacoplado
 - Mejores prácticas en seguridad de APIs
 - Automatización de procesos internos con Laravel Commands y CRON
 
@@ -28,15 +27,14 @@ Actualmente estoy profundizando en:
 ### 💼 Proyectos destacados
 
 - 🎯 **Taskhub**: sistema completo de gestión de tareas y métricas de productividad, basado en Laravel + Livewire.  
-- 💌 **Email Campaign Builder**: plataforma de campañas multisección con variables dinámicas, multitenancy y editor enriquecido.  
-- 🔍 **Jira Sync Tool**: comando Laravel para guardar histórico de tareas y cambios de estado directamente desde la API de Jira.
+- 💌 **Email Campaign Builder**: plataforma de campañas multisección con variables dinámica y editor enriquecido.
 
 ---
 
 ### 📫 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ignaciovelizdev)
-- ✉️ ignacio.veliz.dev@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ingveliz/)
+- ✉️ ignacioveliz16v@hotmail.es  
 - 📍 Santiago, Chile  
 
 ---
