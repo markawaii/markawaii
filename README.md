@@ -26,7 +26,7 @@ Actualmente estoy profundizando en:
 
 ### 💼 Proyectos destacados
 
-- 🎯 **Taskhub**: sistema completo de gestión de tareas y métricas de productividad, basado en Laravel + Livewire.  
+- 🎯 **Taskhub**: sistema completo de gestión de tareas y métricas de productividad, basado en Laravel.  
 - 💌 **Email Campaign Builder**: plataforma de campañas multisección con variables dinámica y editor enriquecido.
 
 ---
